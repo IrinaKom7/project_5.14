@@ -7,7 +7,8 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### Содержание:
-1. Pro git info
+
+1. [git info](./infogit.md)
 2. [git add](./add.md)
 3. [git clean](./clean.md)
 4. [git commit](./commit.md)    
